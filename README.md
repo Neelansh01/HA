@@ -11,5 +11,5 @@
 4. Generating daily updates about the new medical researches and products including date of release, Type and Product/Article.
 
 ### Notebooks briefing:
-1. The disease outbreak along with data creation and search engine is in: "".
-2. The medical research updates are in the notebook: "".
+1. The disease outbreak along with data creation and search engine is in: "https://github.com/Neelansh01/Health-Analysis/blob/main/Health_News_(Disease_Outbreak).ipynb".
+2. The medical research updates are in the notebook: "https://github.com/Neelansh01/Health-Analysis/blob/main/Health_News_(Medical_Research_Information).ipynb".
